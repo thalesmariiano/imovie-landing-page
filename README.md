@@ -1,6 +1,6 @@
 # imovie-landing-page
 
-Primeiro projeto usando a biblioteca @Bootstrap.
+Primeiro projeto usando a biblioteca Bootstrap.
 
 ## Introdução ao bootstrap 5:
 https://www.youtube.com/watch?v=jJUpJA1GJHw&t
